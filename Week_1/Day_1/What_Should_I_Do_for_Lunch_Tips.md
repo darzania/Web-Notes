@@ -1,10 +1,10 @@
 ### Tips
 
-Try experimenting with the comparison operators (`<`, `>`, `===`, etc.) in the node REPL, which you can launch using the `node` command in your terminal.
+I will try out the comparison operators (`<`, `>`, `===`, etc.) in the node REPL (Read-Eval-Print Loop), I can launch it using the `node` command in the terminal.
 
-Work on your code iteratively – that means in small pieces.
+Working on my code iteratively (in small pieces) – is the way to go.
 
-To help you figure out how to use `hungry` and `availableTime` inside your function, try outputting their values to the Terminal as follows.
+In order to figure out how to use `hungry` and `availableTime` in my function, I will put this in the Terminal as a test case.
 
 
 ```javascript
