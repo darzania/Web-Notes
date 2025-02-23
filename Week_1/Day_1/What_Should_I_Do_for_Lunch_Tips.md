@@ -4,7 +4,7 @@ I will try out the comparison operators (`<`, `>`, `===`, etc.) in the node REPL
 
 Working on my code iteratively (in small pieces) – is the way to go.
 
-In order to figure out how to use `hungry` and `availableTime` in my function, I will put this in the Terminal as a test case.
+To see how to use `hungry` and `availableTime` in my function, I'll run this in the Terminal.
 
 
 ```javascript
