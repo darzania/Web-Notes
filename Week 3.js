@@ -1,13 +1,13 @@
-Review of what variable, function, object looks like
+// Review of what variable, function, object looks like
 ==============================
-In JavaScript, variables look like this:
+// In JavaScript, variables look like this:
 ==============================
 
 const dogSound = "woof";
 let dogBreed = "shih tzu";
 
 ==============================
-functions look like this:
+// functions look like this:
 ==============================
 
 function speak() {
@@ -15,7 +15,7 @@ function speak() {
 }
 
 ==============================
-and objects looks like this:
+// and objects looks like this:
 ==============================
 
 const dog = {
